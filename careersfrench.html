@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Découvrez des carrières enrichissantes en santé au Centre Médical Gare de Vevey et Renens. Emplois médicaux à Vevey et carrières santé à Renens, Suisse vous attendent !">
+    <meta name="keywords" content="emplois médicaux Vevey, carrières santé Renens, emplois infirmiers Suisse, emplois médecins Vevey, centre médical emplois Suisse">
+    <title>Carrières en Santé au CMGV & CMGR - Vevey & Renens</title>
+    <style>
+        body { font-family: 'Arial', sans-serif; margin: 0; padding: 0; color: #333; line-height: 1.6; }
+        header { background: #005566; color: white; text-align: center; padding: 40px 20px; }
+        h1 { font-size: 2.5em; margin: 0; }
+        nav { background: #f4f4f4; position: sticky; top: 0; padding: 15px; text-align: center; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        nav a { margin: 0 20px; text-decoration: none; color: #005566; font-weight: bold; }
+        nav a:hover { color: #f28c38; }
+        .hero { background: url('https://via.placeholder.com/1200x300?text=Centres+Médicaux+Vevey+et+Renens') no-repeat center; height: 300px; display: flex; align-items: center; justify-content: center; background-size: cover; }
+        .btn { background: #f28c38; color: white; padding: 12px 25px; text-decoration: none; border-radius: 5px; font-size: 1.1em; transition: background 0.3s; }
+        .btn:hover { background: #e07b30; }
+        section { padding: 60px 20px; max-width: 1200px; margin: 0 auto; }
+        h2 { color: #005566; font-size: 2em; }
+        .why-us { display: flex; flex-wrap: wrap; gap: 30px; }
+        .why-us div { flex: 1 1 300px; background: #f9f9f9; padding: 20px; border-radius: 5px; }
+        .carousel { display: flex; overflow-x: auto; gap: 20px; padding: 20px 0; scroll-behavior: smooth; }
+        .carousel div { border: 1px solid #ddd; padding: 20px; min-width: 250px; background: white; border-radius: 5px; }
+        .carousel-controls { text-align: center; margin-top: 20px; }
+        .carousel-btn { background: #005566; color: white; border: none; padding: 10px 20px; margin: 0 10px; cursor: pointer; }
+        .testimonials { background: #f9f9f9; }
+        .testimonials p { font-style: italic; }
+        footer { background: #005566; color: white; padding: 30px; text-align: center; }
+        footer a { color: #f28c38; text-decoration: none; }
+        @media (max-width: 768px) { .hero { height: 200px; } h1 { font-size: 1.8em; } section { padding: 30px 10px; } }
+    </style>
+</head>
+<body>
+    <!-- En-tête -->
+    <header>
+        <h1>Débutez Votre Parcours en Santé avec CMGV & CMGR – Vevey et Renens, Suisse</h1>
+        <p>Découvrez des carrières enrichissantes en santé avec nous</p>
+    </header>
+
+    <!-- Navigation -->
+    <nav>
+        <a href="#accueil">Accueil</a>
+        <a href="#pourquoi">Pourquoi CMGV & CMGR</a>
+        <a href="#emplois-vevey">Emplois à Vevey</a>
+        <a href="#emplois-renens">Emplois à Renens</a>
+        <a href="#postuler">Postuler</a>
+    </nav>
+
+    <!-- Section Héros -->
+    <div class="hero">
+        <a href="#emplois" class="btn">Rechercher des Emplois</a>
+    </div>
+
+    <!-- Section Offres d'Emploi -->
+    <section id="emplois">
+        <h2>Offres d'Emploi Actuelles à Vevey et Renens</h2>
+        <p>Nous recrutons des talents pour rejoindre notre équipe croissante au <strong>Centre Médical Gare de Vevey (CMGV)</strong> et au <strong>Centre Médical Gare de Renens (CMGR)</strong> ! Explorez des opportunités telles que :</p>
+        <ul>
+            <li><strong>Médecins</strong> – Spécialistes et généralistes pour fournir des soins complets et un soutien urgent.</li>
+            <li><strong>Infirmiers</strong> – Offrir des soins pratiques dans un cadre axé sur le patient.</li>
+            <li><strong>Assistants Médicaux</strong> – Soutenir les opérations avec des tâches de laboratoire, radiologie et administratives sur place.</li>
+            <li><strong>Personnel Administratif</strong> – Assurer des opérations fluides avec vos compétences organisationnelles.</li>
+        </ul>
+        <p>Recherchez des <strong>emplois médicaux à Vevey</strong> ou des <strong>carrières santé à Renens</strong> ci-dessous :</p>
+        <p>[Insérer l'Outil de Recherche d'Emploi Ici]</p>
+        <p>Vous ne trouvez pas le bon poste ? <a href="#">Inscrivez-vous aux alertes emploi</a> pour rester informé des nouvelles opportunités !</p>
+    </section>
+
+    <!-- Section Pourquoi Nous Rejoindre -->
+    <section id="pourquoi" class="why-us">
+        <h2>Pourquoi Choisir CMGV & CMGR ?</h2>
+        <p>Nos centres médicaux allient l’expertise hospitalière à la commodité des cliniques locales, offrant un lieu de travail unique aux professionnels de santé.</p>
+        <div>
+            <h3>Collaboration Multidisciplinaire</h3>
+            <p>Travaillez aux côtés d’experts en médecine générale, pédiatrie, gynécologie, chirurgie orthopédique et plus encore dans un environnement collaboratif.</p>
+        </div>
+        <div>
+            <h3>Soins Centrés sur le Patient</h3>
+            <p>Fournissez des services urgents et réguliers aux adultes et enfants, ayant un impact direct sur leur vie quotidienne.</p>
+        </div>
+        <div>
+            <h3>Formation & Croissance</h3>
+            <p>En tant qu’institutions de formation certifiées, nous offrons une éducation continue et des opportunités d’avancer dans votre carrière en santé.</p>
+        </div>
+        <div>
+            <h3>Emplacements de Choix</h3>
+            <p>Profitez de travailler dans le cadre pittoresque de Vevey au bord du lac ou dans le centre urbain dynamique de Renens, tous deux près des gares.</p>
+        </div>
+        <div>
+            <h3>Équilibre Vie Professionnelle</h3>
+            <p>Bénéficiez d’horaires flexibles, d’une culture d’équipe supportive et d’avantages compétitifs au cœur de la Suisse.</p>
+        </div>
+    </section>
+
+    <!-- Carrousel des Opportunités -->
+    <section>
+        <h2>Opportunités en Vedette</h2>
+        <div class="carousel" id="jobCarousel">
+            <div>
+                <h3>Pédiatre – Vevey</h3>
+                <p>Prenez soin des enfants dans une clinique au bord du lac pittoresque.</p>
+                <a href="#" class="btn">Postuler Maintenant</a>
+            </div>
+            <div>
+                <h3>Infirmier – Renens</h3>
+                <p>Rejoignez notre nouveau centre urbain près de Lausanne.</p>
+                <a href="#" class="btn">Postuler Maintenant</a>
+            </div>
+            <div>
+                <h3>Assistant Médical – Deux Sites</h3>
+                <p>Soutenez les diagnostics dans une équipe dynamique.</p>
+                <a href="#" class="btn">Postuler Maintenant</a>
+            </div>
+        </div>
+        <div class="carousel-controls">
+            <button class="carousel-btn" onclick="scrollCarousel('left')">← Précédent</button>
+            <button class="carousel-btn" onclick="scrollCarousel('right')">Suivant →</button>
+        </div>
+    </section>
+
+    <!-- Section Témoignages -->
+    <section class="testimonials">
+        <h2>La Vie au CMGV & CMGR</h2>
+        <p>En nous rejoignant, vous intégrez une équipe dédiée à offrir des soins accessibles et de haute qualité.</p>
+        <p><em>« Chaque jour au CMGR, j’aide les patients à se sentir écoutés et pris en charge – c’est incroyablement gratifiant. »</em> – [Nom], Infirmier, Renens</p>
+        <p><em>« La formation au CMGV m’a permis de grandir en tant que médecin tout en servant ma communauté. »</em> – Dr. [Nom], Médecin Généraliste, Vevey</p>
+    </section>
+
+    <!-- Section Emplacements -->
+    <section>
+        <h2>Nos Emplacements</h2>
+        <p>Notre <strong>centre de Vevey</strong>, ouvert en 2019, dessert la région de la Riviera avec des soins urgents quotidiens et des services spécialisés dans un espace magnifiquement rénové. Notre <strong>centre de Renens</strong>, lancé en janvier 2025, étend cette excellence à l’Ouest lausannois avec une installation moderne près du métro m1.</p>
+        <p><strong>Centre Médical Gare de Vevey :</strong> Place de la Gare 3, CH-1800 Vevey – Ouvert 7 jours sur 7, à deux pas du lac Léman.</p>
+        <p><strong>Centre Médical Gare de Renens :</strong> Avenue d’Epenex 4b, CH-1020 Renens – Ouvert du lundi au vendredi, près de la gare et du métro m1.</p>
+        <p><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2757.678073843573!2d6.840463315497!3d46.462834179125!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478e38e4b1b9e6b7%3A0x8b7e8f5f5c5b5e5!2sPlace%20de%20la%20Gare%203%2C%201800%20Vevey%2C%20Switzerland!5e0!3m2!1sfr!2sch!4v1677654321" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe></p>
+    </section>
+
+    <!-- Section Comment Postuler -->
+    <section id="postuler">
+        <h2>Comment Postuler</h2>
+        <p>Prêt à démarrer votre carrière avec CMGV ou CMGR ? Parcourez nos offres et soumettez votre candidature en ligne. Pour toute question, contactez-nous au <strong>021 566 59 50 (Vevey)</strong> ou <strong>021 566 59 90 (Renens)</strong>, ou par email à <a href="mailto:info@cmgv.ch">info@cmgv.ch</a> ou <a href="mailto:info@cmgr.ch">info@cmgr.ch</a>. Rejoignez une équipe engagée pour l’excellence et la compassion dans les soins de santé suisses.</p>
+        <a href="#" class="btn">Postuler Maintenant</a>
+    </section>
+
+    <!-- Pied de Page -->
+    <footer>
+        <h2>À Propos de CMGV & CMGR</h2>
+        <p>Depuis 2019, CMGV est un pilier de la santé à Vevey, offrant des soins urgents et des consultations sans rendez-vous. CMGR, ouvert en 2025, apporte ce modèle à Renens. Ensemble, nous proposons des services multidisciplinaires – de la médecine générale à la santé voyage – soutenus par des diagnostics de pointe et une passion pour former la prochaine génération de professionnels de santé.</p>
+        <p><a href="tel:+41215665950">021 566 59 50</a> | <a href="tel:+41215665990">021 566 59 90</a> | <a href="#">LinkedIn</a></p>
+        <p>Langue : <a href="#">Français</a> | <a href="#">Deutsch</a> | <a href="#">English</a></p>
+    </footer>
+
+    <!-- JavaScript pour le Carrousel -->
+    <script>
+        function scrollCarousel(direction) {
+            const carousel = document.getElementById('jobCarousel');
+            const scrollAmount = 300;
+            if (direction === 'left') {
+                carousel.scrollLeft -= scrollAmount;
+            } else {
+                carousel.scrollLeft += scrollAmount;
+            }
+        }
+    </script>
+</body>
+</html>
